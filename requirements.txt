@@ -1,0 +1,6 @@
+pyspark
+pandas
+streamlit
+plotly
+numpy
+pymongo
