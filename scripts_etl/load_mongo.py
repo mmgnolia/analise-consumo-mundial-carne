@@ -4,7 +4,7 @@ import sys
 
 def carregar_dados_mongo():
     path_parquet = "data_processed/consumo_processado.parquet"
-    connection_string = "mongodb+srv://magnolia:dani2016@cluster0.v3meszt.mongodb.net/?appName=Cluster0"
+    connection_string = "mongodb+srv://user:<password>6@cluster0.v3meszt.mongodb.net/?appName=Cluster0"
     db_name = "consumo_carne"
     collection_name = "dados_processados"
 
